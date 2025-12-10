@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm kbddDev 👋
 
-<!--
-**kbdd23/kbdd23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="./assets/kbddDev.png" alt="kbddDev - Software Developer" width="800"/>
+</div>
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend Developer with experience in Python and SQL.
+
+## Tech Stack
+
+**Backend:** Python, SQL
+
+## Contact
+
+- GitHub: [@kbddDev](https://github.com/kbddDev)
+- Email: (franciscojavier.inst@gmail.com)
+
+---
+
+*Currently building and learning.*
