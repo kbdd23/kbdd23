@@ -14,7 +14,7 @@ Backend Developer with experience in Python and SQL.
 
 ## Contact
 
-- GitHub: [@kbddDev](https://github.com/kbddDev)
+- GitHub: [@kbdd23](https://github.com/kbdd23)
 - Email: (franciscojavier.inst@gmail.com)
 
 ---
