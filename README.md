@@ -6,7 +6,7 @@
 
 ## About Me
 
-Backend Developer with experience in Python and SQL.
+Backend Developer with experience in Python and Data Structures.
 
 ## Tech Stack
 
