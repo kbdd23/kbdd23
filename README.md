@@ -1,5 +1,3 @@
-# Hi, I'm kbddDev 👋
-
 <div align="center">
   <img src="./assets/kbddDev.png" alt="kbddDev - Software Developer" width="800"/>
 </div>
