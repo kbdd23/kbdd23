@@ -8,7 +8,7 @@ Software Developer with experience in Object-Oriented Languages and Data Structu
 
 ## Tech Stack
 
-**Backend:** Python,Javascript, Ruby, SQL, NoSQL
+**Backend:** Python, Javascript, Ruby, SQL, NoSQL
 
 **Frontend:** HTML/CSS
 
