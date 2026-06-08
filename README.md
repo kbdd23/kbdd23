@@ -4,11 +4,12 @@
 
 ## About Me
 
-Backend Developer with experience in Python and Data Structures.
+Software Developer with experience in Object-Oriented Languages and Data Structures.
 
 ## Tech Stack
 
-**Backend:** Python, SQL
+**Backend:** Python,Javascript, Ruby, SQL, NoSQL
+**Fronted:** HTML/CSS
 
 ## Contact
 
@@ -17,4 +18,4 @@ Backend Developer with experience in Python and Data Structures.
 
 ---
 
-*Currently building and learning.*
+*Currently learning by building.*
