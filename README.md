@@ -10,8 +10,7 @@ Software Developer with experience in Object-Oriented Languages and Data Structu
 
 **Backend:** Python, Javascript, Ruby, SQL, NoSQL
 
-**Frontend:** HTML/CSS
-
+**Frontend:** HTML/CSS, REACT JSX, TypeScript
 ## Contact
 
 - GitHub: [@kbdd23](https://github.com/kbdd23)
